@@ -15,6 +15,7 @@ namespace TCPClient
         private static StreamWriter Writer = null;
         private static StreamReader Reader = null;
 
+
         static void Main(string[] args)
         {
             try
